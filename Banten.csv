@@ -1,0 +1,4 @@
+"nid","parent_nid","name","serial","type","latitude","longitude","status"
+"16","0","Provinsi Banten","36","1","-6.4058172","106.0640179","1"
+"562","74","Kota Tangerang Selatan","0","2","-6.2888889","106.7180556","1"
+"1542","16","Kota Cilegon","3672","2","-6.0169825","106.040506","1"
